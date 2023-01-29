@@ -13,4 +13,8 @@
     align-content: center;
     margin: 50vh;
     color: #fff;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 2em;
 }
